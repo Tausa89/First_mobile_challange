@@ -1,5 +1,6 @@
 body {
   background-color: #d5e1ef;
+  font-family: sans-serif;
 }
 
 .attribution {
@@ -15,7 +16,7 @@ body {
   margin: 100px auto 100px;
   width: 300px;
   border-radius: 25px;
-  height: 500px;
+  height: 460px;
 }
 
 .qr-image {
@@ -25,14 +26,18 @@ body {
   margin-right: 15px;
   border-radius: 25px;
 }
-h3 {
+h4 {
   text-align: center;
-  width: 70%;
-  margin: 10px auto 10px;
+  width: 75%;
+  margin: 25px auto 5px;
+  color: #393e46;
+  font-weight: bold;
 }
 
 p {
   text-align: center;
-  width: 70%;
-  margin: 10px auto 10px;
+  width: 75%;
+  margin: 20px auto 10px;
+  color: grey;
+  font-size: 14px;
 }
