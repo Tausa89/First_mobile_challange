@@ -4,12 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
-<<<<<<< HEAD
-  - [Screenshot](#screenshot)
-=======
->>>>>>> fa358e5675558194cfcd044573db5cc3835a8ff3
-  - [Links](#links)
+ - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
