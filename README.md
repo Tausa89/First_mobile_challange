@@ -5,11 +5,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
+<<<<<<< HEAD
   - [Screenshot](#screenshot)
+=======
+>>>>>>> fa358e5675558194cfcd044573db5cc3835a8ff3
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+<<<<<<< HEAD
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -42,4 +46,30 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
+=======
+- [Author](#author)
+
+### Links
+
+- Solution URL: [https://github.com/Tausa89/First_mobile_challange]
+- Live Site URL: [https://tausa89.github.io/First_mobile_challange]
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- CSS Grid
+
+
+### What I learned
+
+```html
+<h1>I have learned some basic stuff about HTML and CSS</h1>
+```
+
+## Author
+
+>>>>>>> fa358e5675558194cfcd044573db5cc3835a8ff3
 Łukasz Kuchta
