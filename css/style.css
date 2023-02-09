@@ -6,14 +6,6 @@ body {
   place-items: center;
 }
 
-fotter {
-  font-size: 11px;
-  text-align: center;
-}
-a {
-  color: hsl(228, 45%, 44%);
-}
-
 .main-box {
   background-color: white;
   width: 300px;
@@ -44,6 +36,14 @@ p {
   color: grey;
   font-size: 14px;
   text-align: center;
+}
+
+fotter {
+  font-size: 11px;
+  text-align: center;
+}
+a {
+  color: hsl(228, 45%, 44%);
 }
 
 * {
